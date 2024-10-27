@@ -1,0 +1,65 @@
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\GestionLibreria.csproj.AssemblyReference.cache
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\GestionLibreria.csproj.SuggestedBindingRedirects.cache
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuPpal.resources
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\GestionLibreria.csproj.GenerateResource.cache
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\GestionLibreria.csproj.CoreCompileInputs.cache
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\GestionLibreria.csproj.CopyComplete
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\2023-2\Herramientas de Programación\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\GestionLibreria.csproj.AssemblyReference.cache
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\EntityFramework.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Buffers.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Data.SQLite.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Memory.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\EntityFramework.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Buffers.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Data.SQLite.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Memory.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\WindowsFormsApp1.MenuPpal.resources
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\GestionLibreria.csproj.GenerateResource.cache
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\GestionLibreria.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\Downloads\GestionLibreria\GestionLibreria\obj\Debug\GestionLibreria.csproj.CopyComplete
